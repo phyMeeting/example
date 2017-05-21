@@ -7,7 +7,7 @@ public class HelloWorld {
 
         System.out.println("HEAD is going on");
 
-        System.out.println("3th commit");
+        System.out.println("3th commit - task 1");
         System.out.println("Second commit");
         System.out.println("Hello, World");
     }
